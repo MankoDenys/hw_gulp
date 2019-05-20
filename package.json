@@ -1,0 +1,24 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "pug"
+  ],
+  "author": "Denis",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-csso": "^3.0.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
